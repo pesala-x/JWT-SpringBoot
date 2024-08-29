@@ -37,7 +37,7 @@
 <h3>Installation and Setup</h3>
 <h4>Clone the Repository:</h4>
 
-    git clone https://github.com/sandundil2002/JWT-Authentication.git
+    git clone https://github.com/pesala-x/JWT-SpringBoot.git
     cd JWT-Authentication
 
 <h4>Configure the Database:</h4>
